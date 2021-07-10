@@ -349,7 +349,7 @@
       "precast": {
         "success": {
           "title": "Precasted Vote",
-          "message": "Your vote has been pre-cast. Please pre-cast the next proposal"
+          "message": "Your intention has been cast."
         },
         "error": {
           "title": "Error",
