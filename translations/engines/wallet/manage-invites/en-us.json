@@ -1,0 +1,73 @@
+{
+  "page_title": "Manage Invites",
+  "primary-balance": {
+    "seeds": "Seeds"
+  },
+  "tabs": {
+    "campaigns": {
+      "title": "Campaigns",
+      "no_campaign_title": "No campaign selected",
+      "invites_generated": "Generated invites",
+      "per_invite_amount": "Per invite amount",
+      "invites_redeemed": "Redeemed invites",
+      "total_amount": "Total amount",
+      "invites_withdrawn": "Withdrawn invites",
+      "in_circulation": "In circulation",
+      "invites_in_circulation": "Invites in circulation",
+      "no_invites_in_circulation": "No invites in circulation",
+      "invites_distributed": "Distributed invites",
+      "is_distributed": "Invite is marked as distributed",
+      "export_invites": {
+        "title": "Export campaign invites",
+        "dialog_title": "Export campaign invites",
+        "success_title": "Export success",
+        "success_message": "Campaign invite links were exported"
+      },
+      "copy_invite": {
+        "title": "Share link with a friend",
+        "dialog_title": "Share link with a friend",
+        "invite_text": "Do you want to join me as a regenerator in a movement created to heal our beautiful planet and communities?\r\n\r\nAs a welcome gift, I'm sending you some Seeds, our own currency, that's similar to other digital money - but without the fees! It's also governed by the people that use it (this can be you!) Great eh!?\r\n\r\nJust click below on your mobile phone to get them. Let's play!\r\n\r\n{invite_link}\r\n\r\nIf the link doesn't work download the SEEDS Passport and add this invite code.\r\n{invite_code}\r",
+        "success_title": "Share success",
+        "success_message": "Invite link was shared"
+      }
+    },
+    "requests": {
+      "title": "Requests",
+      "overview": "Overview",
+      "requests_total": "Total requests",
+      "requests_approved": "Approved requests",
+      "requests_declined": "Declined requests",
+      "success_rate": "Success rate",
+      "invite_requests": "Invites requests",
+      "no_invite_requests": "No invite requests"
+    },
+    "history": {
+      "title": "History",
+      "overview": "Overview",
+      "in_circulation": "In circulation",
+      "invites_sent": "Total invites sent",
+      "invites_redeemed": "Redeemed invites",
+      "invites_withdrawn": "Withdrawn invites",
+      "redemption_rate": "Redemption rate",
+      "invites_in_circulation": "Invites in circulation",
+      "no_invites_in_circulation": "No invites in circulation",
+      "no_redeemed_invites": "No redeemed invites"
+    }
+  },
+  "buttons": {
+    "invite": "Invite",
+    "refund": "Refund",
+    "copy": "Copy",
+    "see_all": "See all",
+    "export": "Export",
+    "share": "Share",
+    "new_campaign": "New campaign"
+  },
+  "transactions": {
+    "refund": {
+      "sign": "Securely sign the transaction to refund your invite",
+      "executing": "Refunding your invite…",
+      "error": "Error refunding invite"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "page_title": "Unplant Schedule",
+  "no_unplanting_in_progress": "No unplanting is currently in progress",
+  "unplanting_started": "Started:",
+  "next_refund": "Next refund:",
+  "unplanted": "Unplanted:",
+  "unplanting": "Unplanting:",
+  "buttons": {
+    "claim_unplanted": "Claim",
+    "cancel_unplanting": "Cancel"
+  },
+  "transactions": {
+    "claim": {
+      "sign": "Securely sign the transaction to claim {quantity} unplanted Seeds",
+      "executing": "Claiming unplanted Seeds…",
+      "error": "Error claiming unplanted Seeds"
+    },
+    "cancel": {
+      "sign": "Securely sign the transaction to cancel unplanting {quantity} Seeds",
+      "sign_with_claim": "Securely sign the transaction to claim {claim_quantity} unplanted Seeds and cancel unplanting {quantity} Seeds",
+      "executing": "Canceling unplanting Seeds…",
+      "error": "Error canceling unplanting Seeds"
+    }
+  }
+}

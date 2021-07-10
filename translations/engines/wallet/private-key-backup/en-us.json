@@ -1,0 +1,11 @@
+{
+  "page_title": "Backup Private Key",
+  "unlock_wallet_to_access_pkey": "Unlock your wallet to access your Private Key. After unlocking, it will be displayed for you to copy or write down.",
+  "footnote_warning": "Make sure to keep your Private Key safe and private at all times. Do not share your Private Key with anyone.",
+  "unlock_wallet_title": "Unlock your wallet to access your Private Key",
+  "tap_on_copy_icon": "Tap on the Copy button below to copy your Private Key to the clipboard. Don't paste it to an unsecure place!",
+  "private_key": "Private Key",
+  "copy_to_clipboard_button": "Copy Private Key",
+  "key_copied_to_clipboard": "Private Key was copied to Clipboard.",
+  "unlock_wallet_footer_button": "View Private Key"
+}

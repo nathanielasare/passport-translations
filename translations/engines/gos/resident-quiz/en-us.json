@@ -1,0 +1,64 @@
+{
+  "evolving": {
+    "title": "You are evolving to",
+    "subtitle": "Resident",
+    "body_title": "Congratulations!",
+    "paragraph_1": "You've advanced to the next phase. As a Resident, you'll be able to earn a share of the Harvest.",
+    "paragraph_2": "To proceed, we need to confirm that this is your only personal SEEDS account. As detailed in the Constitution, accounts can be frozen and fined if found to be a proxy, fake or duplicate.",
+    "checkbox_text": "I declare that I do not own any other Resident or Citizen account representing me and my actions.",
+    "next": "I understand"
+  },
+  "resident": {
+    "title": "Resident",
+    "subtitle": "Benefits",
+    "paragraph_1": "As a resident you'll start earning a Harvest (in Seeds) for your contributions by <b>planting Seeds</b>, <b>sowing Seeds</b> (inviting others), building your <b>reputations value</b>, and making <b>qualifying transactions</b>.",
+    "paragraph_2": "Each time you plant Seeds, you put them away for a predetermined time. When the Harvests are aveilable, these Seeds are returned to you with rewards. Learn more about Harvests on the ",
+    "link_text": "SEEDS Library",
+    "link_url": "https://seedslibrary.com/",
+    "next": "Great"
+  },
+  "qualifying": {
+    "title": "Qualifying",
+    "subtitle": "Transactions",
+    "paragraph_1": "You'll earn greater share of the Harvest by making more qualifying transactions.",
+    "paragraph_2": "Qualifying Transactions are transactions made with Citizens and Organisations who have a high 'Regenerative Reputation.'",
+    "paragraph_3": "When you earn points by transactiong with them, it's what we call 'better than free' transactions",
+    "next": "I understand"
+  },
+  "reputation": {
+    "title": "Reputation",
+    "subtitle": "Value",
+    "paragraph_1": "Reputation Value is one of the many tools that support the people and organizations doing good in our world.",
+    "paragraph_2": "It's built by engaging in conversations, being vouched for by members, contributing to Campaigns, submitting successful proposals, and your vouches becoming Residents and Citizens.",
+    "paragraph_3": "When you vouch for a friend, you raise their Reputation Value by 5 points.",
+    "next": "I understand"
+  },
+  "more": {
+    "title": "More on",
+    "subtitle": "Reputation",
+    "paragraph_1": "Your Reputation Value is a multiplier. It amplifies or reduces the effects of your other actions. The higher your value, the greater share of the Harvest you'll receive.",
+    "paragraph_2": "If you neglect your Reputation Value and let it fall to zero, you will receive no share of the Harvest. This is how we limit the rewards for those who harm the community and its efforts.",
+    "next": "I understand"
+  },
+  "constitution": {
+    "title": "Constitution and",
+    "subtitle": "Consequences",
+    "paragraph_1": "Becoming a resident means that you're making a greater commitment to the society we're co-creating.",
+    "paragraph_2_text_1": "The ",
+    "paragraph_2_link_text": "Constitution",
+    "paragraph_2_link_url": "/constitution",
+    "paragraph_2_text_2": " outlines the rewards, participation and voting within the ecosystem as well as rules needed to guard against fraud, cheating and abuse.",
+    "paragraph_3": "Unconstitutional actions can lead to fines and even freesing your account.",
+    "checkbox_text_1": "I have read and agree to follow the ",
+    "checkbox_link_text": "Constitution",
+    "checkbox_link_url": "/constitution",
+    "checkbox_text_2": " and understand the consequences of unconstitutional actions.",
+    "next": "I understand"
+  },
+  "animation": {
+    "navigationText": "Congrats!",
+    "title": "You are now a",
+    "subtitle": "Resident!",
+    "next": "Have fun & keep on thriving!"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "evolving": {
+    "title": "You are evolving to",
+    "subtitle": "Citizen",
+    "body_title": "Congratulations!",
+    "paragraph_1": "You have successfully made it to Citizen, the highest in the ecosystem. This status comes with benefits and responsibilities.",
+    "next": "Next"
+  },
+  "greater": {
+    "title": "Greater",
+    "subtitle": "Benefits",
+    "paragraph_1": "You have hundreds of fee-free transactions per cycle.",
+    "paragraph_2": "Transactions wiht Residents are now qualifying transaction.",
+    "paragraph_3": "You can even gain Reputation Value by voting on governance decisions.",
+    "paragraph_4": "When you vouch for a friend, you will now be raising their Reputation Value by a base of ten points.",
+    "next": "Awesome"
+  },
+  "voting": {
+    "title": "Voting in",
+    "subtitle": "Governance",
+    "paragraph_1": "You can now vote on projects you care about and participate in governance decisions. Choose wisely, as these campaigns, alliance ahares and referendum decisions will guide the evolution of our movement.",
+    "paragraph_2": "Your mission, should you chose to accept it, is to use your Trust Tokens to vote the way you feel will make the future brighter for everyone in the SEEDS Universe and beyond. If you don't vote on any proposals, you lose your Trust Tokens.",
+    "paragraph_3": "The number of Trust Tokens depends on your Contribution Score, determined by planting Seeds, qualifying transactions, your Reputation Value, and Community Building score.",
+    "checkbox_text": "I understand that Citizens are in full control of the governance of the ecosystem.",
+    "next": "I understand"
+  },
+  "reconfirm": {
+    "title": "Reconfirm your",
+    "subtitle": "Intent",
+    "paragraph_1_text_1": "To proceed, confirm that this is your only personal SEEDS account. As detailed in the ",
+    "paragraph_1_link_text": "Constitution",
+    "paragraph_1_link_url": "/constitution",
+    "paragraph_1_text_2": ", accounts can be frozen and fined if found to be a proxy, fake or duplicate.",
+    "checkbox_text": "I declare that I do not own any other Resident or Citizen account representing me or my actions.",
+    "next": "I understand"
+  },
+  "constitution": {
+    "title": "Constitution and",
+    "subtitle": "Consequences",
+    "paragraph_1": "Citizens hold the greatest responsibility within the SEEDS Universe.",
+    "paragraph_2": "The Constitution outlines the rewards, participation and voting within the ecosystem as well as rules needed to guard against fraud, cheating and abuse.",
+    "paragraph_3": "Unconstitutional actions can lead to fines and even freesing your account.",
+    "checkbox_text": "I have read and agree to follow the Constitution and understand the consequences of unconstitutional actions.",
+    "next": "I understand"
+  },
+  "animation": {
+    "navigationText": "Congrats!",
+    "title": "You are now a",
+    "subtitle": "Citizen!",
+    "next": "Have fun & keep on thriving!"
+  }
+}

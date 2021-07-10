@@ -1,0 +1,17 @@
+{
+  "title": "Game of Seeds",
+  "subtitle": "Dashboard",
+  "path_completed_text_visitor": "Residency requirements met",
+  "path_completed_text_resident": "Citizenship requirements met",
+  "missions_completed_text": "Missions completed in the game",
+  "seeds_earned_text": "Seeds earned from the game",
+  "missions_block_title": "Missions",
+  "missions_block_description": "The star icon indicates the missions required to evolve to [status]. These mandatory missions contribute to your evolution path %",
+  "history_block_title": "History",
+  "history_block_button": "Load more",
+  "send": "Send",
+  "missions_tab": "Missions",
+  "quests_tab": "Quests",
+  "history_tab": "History",
+  "quests_title": "The globe icon indicates when a quest is globally available"
+}

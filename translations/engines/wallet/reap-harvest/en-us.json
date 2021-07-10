@@ -1,0 +1,21 @@
+{
+  "step-harvest-summary": {
+    "page_title": "Gather Harvest",
+    "congratulations": "Here is a summary of your Harvest:",
+    "harvest_balance": "Seeds Harvest",
+    "deferred_balance": "Deferred Seeds",
+    "footnote": {
+      "more_you_participate": "The more you participate within SEEDS, the greater share of future Harvests you'll receive.",
+      "your_harvest_is_locked_until": "Your Harvest is locked until \"Go Live\" event, then it will start being released to you over time.",
+      "think_of_it_like_garden": "Think of it like planting a garden and waiting for the fruits to be ripe!"
+    },
+    "transaction": {
+      "sign_transaction": "Securely sign the transaction to gather harvest",
+      "gathering_harvest": "Gathering Harvest…",
+      "gathering_harvest_error": "Error gathering harvest"
+    },
+    "buttons": {
+      "gather_harvest": "Gather Harvest"
+    }
+  }
+}

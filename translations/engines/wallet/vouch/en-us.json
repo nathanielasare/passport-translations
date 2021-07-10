@@ -1,0 +1,32 @@
+{
+  "errors": {
+    "account_does_not_exist": "Account \"{account_name}\" does not exist.",
+    "error_checking_account": "Error finding account \"{account_name}\".",
+    "can_not_vouch_for_self": "You cannot vouch for yourself.",
+    "can_not_vouch_twice": "You cannot vouch for the same friend twice.",
+    "can_not_vouch_over_limit": "This friend already reached maximum vouching limit."
+  },
+  "step-select-recipient": {
+    "page_title": "Vouch for a friend",
+    "recipient_input_title": "Search for a friend below:",
+    "recipient_input_label": "SEEDS account name or nickname",
+    "already_vouched_for": "Already vouched for",
+    "has_maximum_vouch_reputation": "Already reached maximum vouching limit",
+    "no_accounts_found": "No accounts found.",
+    "load_more": "Load More"
+  },
+  "step-confirm-vouching": {
+    "page_title": "Vouch for a friend",
+    "will_gain_reputation": "will gain reputation points",
+    "footnote": {
+      "note_1": "Vouching for your friends builds their reputation to help them evolve to Resident and Citizen.",
+      "note_2": "This is how we grow trust and prevent robots from taking over!",
+      "note_3": "When your friend evolves to Resident or Citizen — you earn Reputation points too, so, help them out! But if they're a bot — you lose points, so only vouch for people you know."
+    },
+    "transaction": {
+      "sign_transaction": "Securely sign the transaction to vouch for a friend",
+      "vouching_for_friend": "Vouching for a friend…",
+      "vouching_for_friend_error": "Error vouching for a friend"
+    }
+  }
+}

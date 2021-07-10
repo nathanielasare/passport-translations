@@ -1,0 +1,31 @@
+{
+  "errors": {
+    "account_does_not_exist": "Account \"{account_name}\" does not exist.",
+    "error_checking_account": "Error finding account \"{account_name}\".",
+    "can_not_transfer_to_self": "The recipient can not be the same as the sender."
+  },
+  "step-select-recipient": {
+    "page_title": "Send <em>Seeds</em>",
+    "recipient_input_title": "Search for a recipient below:",
+    "recipient_input_label": "SEEDS account name or nickname",
+    "recent_recipients": "Recent recipients",
+    "no_accounts_found": "No accounts found.",
+    "load_more": "Load More"
+  },
+  "step-select-amount": {
+    "page_title": "Send Seeds",
+    "will_receive": "will receive",
+    "enter_amount": "amount of Seeds to send",
+    "available_seeds": "Available Seeds",
+    "insufficient_available_seeds": "Not enough available Seeds.",
+    "enter_memo": "Memo (optional)",
+    "footnote": {
+      "your_transfer_will_be_processed": "Your transfer will start processing immediately and will be reflected in your account shortly upon confirmation."
+    },
+    "transaction": {
+      "sign_transaction": "Securely sign the transaction to send Seeds",
+      "transferring_seeds": "Sending Seeds…",
+      "transferring_seeds_error": "Error sending Seeds"
+    }
+  }
+}

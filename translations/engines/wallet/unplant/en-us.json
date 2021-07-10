@@ -1,0 +1,19 @@
+{
+  "page_title": "Unplant Seeds",
+  "enter_unplant_quantity": "Enter the quantity of Seeds to unplant",
+  "enter_unplant_quantity_placeholder": "5 Seeds",
+  "available_seeds": "Available Seeds",
+  "planted_seeds": "Planted Seeds",
+  "not_enough_seeds": "You don't have enough planted Seeds",
+  "footnotes": {
+    "unplanting_seeds_takes_weeks": "A total of 12 weeks is required to fully unplant Seeds at a rate of 8.33% of the unplanted amount released each week."
+  },
+  "buttons": {
+    "unplant_seeds": "Unplant Seeds"
+  },
+  "transaction": {
+    "sign": "Securely sign the transaction to unplant Seeds",
+    "executing": "Unplanting Seeds…",
+    "error": "Error unplanting Seeds"
+  }
+}

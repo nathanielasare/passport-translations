@@ -1,0 +1,48 @@
+{
+  "page_title": "Scores",
+  "labels": {
+    "individual": {
+      "contribution": "Contribution",
+      "community_building": "Community",
+      "reputation": "Reputation",
+      "planted": "Planted",
+      "transaction": "Transaction"
+    },
+    "organisation": {
+      "contribution": "Contribution",
+      "economy": "Economy",
+      "community_building": "Community",
+      "biosphere": "Biosphere"
+    },
+    "points": "Total Points",
+    "position": "Position"
+  },
+  "steps": {
+    "contribution": {
+      "indicator_label": "Total Contribution",
+      "score_description": "Your total contribution is the combination of your other contributions.",
+      "score_description_details": "It determines how much Trust credits you earn for making governance decisions, and also increases your share of the Harvest, how many Seeds you earn through participation."
+    },
+    "community-building": {
+      "indicator_label": "Community Building",
+      "score_description": "You earn points when someone you invited evolves to a Resident or Citizen, or when an organisation you invited evolves to a \"Regenerative Organisation\".",
+      "score_description_details": "The gauge is in part how many total points you've earned and how many of them were earned in the last 3 moons. Therefore, no matter when you start, you receive the highest points for the most recent efforts."
+    },
+    "reputation": {
+      "indicator_label": "Reputation",
+      "score_description": "Your reputation is a multiplier of your other contributions, used when calculating your total contribution.",
+      "score_description_details": "Earn reputation by participating in the forum, getting vouched for, inviting new Residents or Citizens, and more. If your reputation is 0, your total contribution is 0 as well."
+    },
+    "planted": {
+      "indicator_label": "Planted Seeds",
+      "score_description": "Planted Seeds are similar to a savings account. They are locked out of circulation, but increase your transaction capacity.",
+      "score_description_details": "Planting Seeds is the easiest way to earn a return on Seeds that you're not spending. This is also how you get \"free\" transactions."
+    },
+    "transaction": {
+      "indicator_label": "Transaction",
+      "score_description": "This gauge is what makes SEEDS \"better than free\". The more transactions you have, the higher your Transaction Contribution will be and the more rewards you earn.",
+      "score_description_details": "The higher the reputation of the Organisation you're buying from, the more points you earn. You only earn points when buying from Regenerative Organisations, Residents and Citizens."
+    },
+    "footnote": "Almost everything you do in SEEDS can earn you Total Points. Position indicates how those points compare to your peers on a scale from 0 to 99."
+  }
+}

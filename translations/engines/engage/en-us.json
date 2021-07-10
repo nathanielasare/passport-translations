@@ -1,0 +1,67 @@
+{
+  "following": {
+    "categories_title": "Your Topics",
+    "select_categories_title": "Select the Topics You Want to Follow",
+    "topic_search": "Select the Categories you want to follow",
+    "search_results_label": "Search results for:",
+    "kind_seeds_universe": "SEEDS Universe",
+    "kind_get_involved": "Get Involved",
+    "kind_ideate": "Ideate",
+    "kind_track_positive": "Track Positive Impact",
+    "footer_label": "Topics selected",
+    "next": "Done",
+    "select_all_categories": "Follow all SEEDS Topics",
+    "select_all_yes": "Yes",
+    "select_all_no": "No"
+  },
+  "filter-by-category": {
+    "title": "Filter your Feed",
+    "no-topic-selected": "No Topic selected",
+    "filter_by_all": "All Followed Topics",
+    "search_results_label": "Search results for:",
+    "manage_button": "Manage topics you are following",
+    "manage_button_unselected_topics": "Manage Topics"
+  },
+  "home": {
+    "navigation_following": "Manage topics",
+    "navigation_filter_by_category": "Filter your feed",
+    "search_placeholder": "Type your search here...",
+    "search_results_label": "Search results for:",
+    "load_more": "Load more",
+    "no_posts_found": "No posts found"
+  },
+  "post": {
+    "comments_title": "Most recent comments",
+    "load_more_button": "Load more comments",
+    "write_comment_title": "Write a comment",
+    "save_comment_button": "Publish",
+    "number_of_comments_title": "Comments"
+  },
+  "new": {
+    "title": "Create a Post",
+    "select_label": "Select topic",
+    "title_label": "Create title",
+    "content_area_label": "Write the content",
+    "hashtag_label": "Add #hashtags",
+    "hashtag_description": "Write your hashtag separated",
+    "form.next": "Preview",
+    "preview.next": "Publish"
+  },
+  "edit": {
+    "title": "Edit the Post",
+    "select_label": "Select topic",
+    "title_label": "Edit title",
+    "content_area_label": "Change the content",
+    "hashtag_label": "Add #hashtags",
+    "hashtag_description": "Write your hashtag separated",
+    "form.next": "Preview",
+    "preview.next": "Publish"
+  },
+  "share": {
+    "title": "Share Post With:",
+    "load_more": "Load more",
+    "share_button": "Share",
+    "friends_label": "friends",
+    "search_placeholder": "Search your friend here..."
+  }
+}

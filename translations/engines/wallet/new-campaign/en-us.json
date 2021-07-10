@@ -1,0 +1,19 @@
+{
+  "page_title": "New Invite Campaign",
+  "inputs": {
+    "campaign_name": "Campaign name",
+    "seeds_per_invite": "Seeds per Invite",
+    "number_of_invites": "Number of Invites"
+  },
+  "buttons": {
+    "create_campaign": "Create Campaign"
+  },
+  "unlock": {
+    "sign_transaction": "Securely sign the transaction to generate campaign invites",
+    "creating_campaign": "Generating campaign invites…",
+    "creating_campaign_error": "Error generating campaign invites"
+  },
+  "errors": {
+    "insufficient_available_seeds": "Not enough available Seeds."
+  }
+}

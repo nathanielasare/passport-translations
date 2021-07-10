@@ -1,0 +1,179 @@
+{
+    "apply-page": {
+        "start_application": "Start Evolution",
+        "apply_to_become": "Evolve to {new_status}",
+        "application_for": "Evolution to {profileStatus}",
+        "footer_note": "Note that ticking the box above will sign the declaration on the blockchain.",
+        "declaration": "I declare that I do not own any other SEEDS Resident or Citizen accounts, and that this is the only personal account representing me and my actions within SEEDS.",
+        "visitor": {
+            "now_eligible": "",
+            "will_be_eligible": ""
+        },
+        "citizen": {
+            "confirm_to_proceed": "To proceed, confirm that this is your only personal SEEDS account. As detailed in the SEEDS constitution, accounts can be frozen and fined if found to be a proxy, fake or duplicate.",
+            "benefits_participation": "Participation earns Trust Tokens for use in governance decisions",
+            "benefits_transaction": "Transactions with Residents are now Qualifying Transactions",
+            "benefits_reputations": "Gain Reputation Value by voting on governance decisions",
+            "benefits": "You'll continue to receive your Resident benefits, plus:",
+            "now_eligible": "Your commitment to SEEDS means you're now eligible to evolve to Citizen!",
+            "will_be_eligible": "As a Citizen, you'll be participating in decentralized decision-making that guides the evolution of SEEDS and ensures its long-term vitality."
+        },
+        "resident": {
+            "confirm_to_proceed": "To proceed, we need to confirm that this is your only personal SEEDS account. As detailed in the SEEDS constitution, accounts can be frozen and fined if found to be a proxy, fake or duplicate.",
+            "level_of_rewards": "The level of these rewards (in Seeds) will depend on your activity and contributions within SEEDS. This will be explained in more detail as you go through the evolution process.",
+            "now_eligible": "You've successfully met the conditions to evolve to Resident in SEEDS - congratulations for coming this far!",
+            "will_be_eligible": "In addition to the benefits and access you already have, as a Resident you'll be eligible to earn a share in the Harvest."
+        }
+    },
+    "step1": {
+        "terms": "I have read and agree to abide by the SEEDS Constitution, and understand the consequences of unconstitutional actions.",
+        "terms_extras": "Note that unconstitutional actions can lead to the freezing of your account and fines up to the infraction amount. To safeguard those using SEEDS normally, the Constitution contains detailed systems for arbitration.",
+        "constitution": "Constitution",
+        "visitor": {
+            "title": "",
+            "cover_title": ""
+        },
+        "resident": {
+            "title": "Constitution",
+            "cover_title": "Evolving to Resident of SEEDS means that you're making a greater commitment to this society that we're co-creating.",
+            "slide1": "You read the Constitution as part of the initial evolution to Visitor. Use the link below to refamiliarise yourself with its contents (Part 1 is most crucial).",
+            "slide2": "The Constitution is the \"Rulebook\" co-created by the SEEDS community. In addition to outlining the processes for rewards, participation and voting within the SEEDS ecosystem, it also includes the rules needed to guard against fraud, cheating and abuse.",
+            "slide3": "Note that unconstitutional actions can lead to the freezing of your account and fines up to the infraction amount. To safeguard those using SEEDS normally, the Constitution contains detailed systems for arbitration."
+        },
+        "citizen": {
+            "title": "Step 1. Constitution",
+            "cover_title": "Evolving to Citizen of SEEDS means that you're making a greater commitment to this society that we're co-creating.",
+            "slide1": "Citizenship is the highest level of commitment to this society we're co-creating.",
+            "slide2": "You've read the Constitution as part of your previous evolutions. Use the link below to refamiliarise yourself with its contents (Part 1 is most crucial).",
+            "slide3": "The Constitution outlines the processes for rewards, participation and voting within SEEDS, plus the rules needed to guard against fraud and abuse"
+        }
+    },
+    "step2": {
+        "cover": {
+            "as_a_visitor": "",
+            "as_a_resident": "As a Resident, you will start earning Harvest (in Seeds) for your contributions.",
+            "as_a_citizen": "As a Citizen, you will earn Harvest (in Seeds) for your contributions.",
+            "do_this_by": "You do this by:",
+            "planting_seeds": "Planting Seeds",
+            "sowing_seeds": "Sowing Seeds (inviting others)",
+            "reputation": "Building your Reputation Value",
+            "transactions": "Making Qualifying Transactions"
+        },
+        "visitor": {
+            "title": "",
+            "terms": ""
+        },
+        "resident": {
+            "title": "Qualifying Transactions",
+            "slide1": "Qualifying Transactions  are when you use Seeds to buy from SEEDS Citizens and organisations with high \"Regenerative Reputation\" within the SEEDS marketplace.",
+            "slide2": "The higher an organisation's reputation, the more points you earn for transacting with them. Now it will feel even better when you support those organisations doing good.",
+            "slide3": "So go ahead and invite your favourite brands and organisations into SEEDS, and earn rewards for the purchases you already like to make!",
+            "terms": "As a Resident, I understand that I can earn a greater share of the Harvest by making  Qualifying Transactions. It's what we call \"better than free\" spending."
+        },
+        "citizen": {
+            "title": "Step 2. Governance control",
+            "slide1": "Citizens earn Trust Tokens as an additional reward for participation in SEEDS.",
+            "slide2": "The number of Trust Tokens depends on your share in the Harvest, which is determined by your Contribution Score.",
+            "slide3": {
+                "title": "Your Contribution Score is based on your:",
+                "li1": "Planted Seeds",
+                "li2": "Qualifying Transactions",
+                "li3": "Reputation Value",
+                "li4": "Community Building"
+            },
+            "slide4": "You will use this fund of \"Trust\" to express your preference (vote) in governance decisions.",
+            "terms": "I understand that SEEDS Citizens are in full control of the governance of the SEEDS ecosystem."
+        }
+    },
+    "step3": {
+        "cover_title": "Reputation Value is one of the many tools that SEEDS uses to support the people and organisations doing good in our world!",
+        "visitor": {
+            "title": "",
+            "terms": ""
+        },
+        "resident": {
+            "title": "Reputation Value",
+            "slide1": "Your Reputation Value is built by: contribution to Campaigns, activity in the Forum, being \"vouched\" for by members, those you've vouched for evolving to Residents and Citizens, submitting successful proposals for governance decisions.",
+            "slide2": "Your Reputation Value is a multiplier – it amplifies or reduces the effects of your other actions. The higher your value, the greater share of the Harvest you'll receive.",
+            "slide3": "However, if you neglect your Reputation Value sufficiently for it to fall to zero, you will receive no share of the Harvest. This is how we limit the rewards for those who harm the community and its efforts.",
+            "terms": "As a Resident, I understand that my share of the Harvest is affected by my Reputation Value."
+        },
+        "citizen": {
+            "title": "Step 3. Trust Tokens",
+            "slide1": "SEEDS governance decisions relate to either your local SEEDS bioregion co-op, or the overall global SEEDS ecosystem (co-op).",
+            "slide2": {
+                "title": "Use Trust Tokens to express how much you trust (agree with):",
+                "li1": "Global funding proposals",
+                "li2": "Global referendums",
+                "li3": "Local co-op funding proposals",
+                "li4": "Local co-op referendums"
+            },
+            "slide3": "Voting cycles begin at each new and full moon. Applying Trust Tokens will raise your Reputation Value, but how you 'spend' them is up to you.",
+            "slide4": "Trust Tokens not spent by the following ¼ or ¾ moon will begin to disappear, and unless saved will be gone by the next new or full moon (when a new distribution of Trust Tokens is made).",
+            "terms": "I understand that Trust Tokens only last for one voting cycle if I don't save them, and up to three voting cycles if I do."
+        }
+    },
+    "step4": {
+        "terms": "I agree to align with these principles to the best of my ability, and consider them before taking any actions within SEEDS.",
+        "visitor": {
+            "title": "",
+            "cover_title": ""
+        },
+        "resident": {
+            "title": "Foundational principles",
+            "cover_title": "Finally, you need to understand the key foundational principles on which SEEDS was built.",
+            "slide1": "Regeneration of our planet through incentives and funding for positive-impact (regenerative) behaviours, such as projects to develop healthier people, communities and environments.",
+            "slide2": "Due consideration for how our choices and actions will affect the well-being of future generations (human and non-human) and the places they occupy.",
+            "slide3": "Distribution of generated wealth based on participation, not just financial contribution, including a fair share for nature and our planet.",
+            "slide4": "Every voice counts, with value based on how much you contribute in a wide variety of ways – not just how wealthy you are – and decisions are made by the people, for the people and our planet.",
+            "slide5": "A culture built on transparency and trust, dramatically cutting fraud and abuse – money can no longer be laundered, voting can no longer be rigged!"
+        },
+        "citizen": {
+            "title": "Step 4. Test your knowledge",
+            "cover_title": "One last step — three questions to test your knowledge about the purpose of SEEDS and how it works.",
+            "cover_sub_title": "Please choose one of the four answers to each question. All the answers can be found in the Constitution.",
+            "answer_quiz": "Please answer to all 3 questions in this Citizenship quiz. Use arrows to move between questions.",
+            "answered_quiz": "Well done! All your answers are correct. You can now progress to the next step.",
+            "slide1": "1. What effect does the Regenerative Reputation of an organisation have?",
+            "slide2": "2. When do you need to vote in order to prevent your Trust Tokens depreciating?",
+            "slide3": "3. How do you earn Reputation when participating in governance?",
+            "slide1_answer1": "Acts as a multiplier of an organisation's rewards, ranging from 0 to 2X.",
+            "slide1_answer2": "Changes the rewards received by Residents and Citizens who interact with the organisation.",
+            "slide1_answer3": "Alters the visibility of the organisation in the SEEDS Market.",
+            "slide1_answer4": "All of the above.",
+            "slide2_answer1": "Immediately after the voting starts.",
+            "slide2_answer2": "Before the start of the next lunar phase (half moon).",
+            "slide2_answer3": "By the end of the voting period.",
+            "slide2_answer4": "None of the above.",
+            "slide3_answer1": "By trusting, distrusting or abstaining on every proposal in the cycle for both the global (SEEDS) co-op and your bioregional co-op.",
+            "slide3_answer2": "By casting at least one vote in a voting cycle.",
+            "slide3_answer3": "By only voting for proposals that pass.",
+            "slide3_answer4": "None of the above."
+        },
+        "transaction": {
+            "sign_transaction": "Securely sign the transaction for upgrading your status",
+            "upgrading_status": "Upgrading status…",
+            "upgrading_status_error": "Error upgrading status"
+        }
+    },
+    "step5": {
+        "on_dashboard": "on Dashboard",
+        "read_more": "Read more",
+        "visitor": {
+            "title": "",
+            "enjoy_benefits": "",
+            "note": ""
+        },
+        "resident": {
+            "title": "Congratulations on your Residency!",
+            "enjoy_benefits": "Enjoy the added benefits of being a Resident of SEEDS, and share your news with friends",
+            "note": "Note that although Residents can propose governance decisions within SEEDS, voting rights are reserved for those who've evolved to Citizens.",
+            "one_step_closer": "You're now one step closer to evolving to Citizen! You can view your progress towards Citizenship"
+        },
+        "citizen": {
+            "title": "Congratulations on your Citizenship!",
+            "enjoy_benefits": "Enjoy the added benefits of being a Citizen of SEEDS, and share your news with friends",
+            "note": "Note that when you vouch for another SEEDS member, you will now be raising their Reputation Value by a base-ten points, rather than base-five points when you were a Resident."
+        }
+    }
+}

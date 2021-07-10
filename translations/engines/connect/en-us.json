@@ -1,0 +1,86 @@
+{
+  "profile": {
+    "individual": {
+      "account": {
+        "label": "SEEDS Account Name",
+        "placeholder": "xxxxxxxxxxxxx"
+      },
+      "edit": {
+        "title": "Edit profile"
+      },
+      "create": {
+        "title": "Create profile"
+      },
+      "completeness": "completed",
+      "nickname": {
+        "label": "Nickname",
+        "placeholder": "Nickname"
+      },
+      "story": {
+        "title": "Profile Story",
+        "label": "What's your story?",
+        "placeholder": ""
+      },
+      "skills": {
+        "title": "Skills",
+        "label": "What are your skills or areas of interests?",
+        "placeholder": "Add 1 to 9 Tags here"
+      },
+      "roles": {
+        "title": "Roles",
+        "label": "What role are you willing to play in SEEDS Universe?",
+        "placeholder": "Add 1 to 3 Tags here"
+      },
+      "interests": {
+        "title": "Interests",
+        "label": "What are your main interests?",
+        "placeholder": "Add 1 to 9 Tags here"
+      },
+      "imageUpload": {
+        "title": "Upload Photo",
+        "description": "Add a photo with your face in the center to let people know who you are."
+      }
+    },
+    "organisation": {
+      "account": {
+        "label": "SEEDS Account Name",
+        "placeholder": "xxxxxxxxxxxxx"
+      },
+      "edit": {
+        "title": "Edit Organisation Profile"
+      },
+      "create": {
+        "title": "Create Organisation Profile"
+      },
+      "completeness": "completed",
+      "nickname": {
+        "label": "Organisation Name",
+        "placeholder": "Exdigitus"
+      },
+      "story": {
+        "title": "Profile Story",
+        "label": "What's the mission of your organisation?",
+        "placeholder": "Tell us about your organisation's purpose and core activities."
+      },
+      "roles": {
+        "title": "Core Activities",
+        "label": "What does your movement/organisation brings to SEEDS?",
+        "placeholder": "Add 1 to 3 Tags here"
+      },
+      "interests": {
+        "title": "Values / Principles",
+        "label": "What are your organisation's core values or principles?",
+        "placeholder": "Add 1 to 9 Tags here"
+      },
+      "imageUpload": {
+        "title": "Upload Photo",
+        "description": "Add a photo of your organisation. It can be your organisation's logo."
+      }
+    },
+    "community": "Community",
+    "reputation": "Reputation",
+    "planted": "Planted",
+    "transaction": "Transaction",
+    "contribution": "Contribution"
+  }
+}

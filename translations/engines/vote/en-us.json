@@ -1,0 +1,385 @@
+{
+  "errors": {
+    "unsupportedProposalType": "Cannot retrieve quorum for unsupported proposal type {proposalType}",
+    "noQuorumForCycle": "Cannot retrieve quorum for vote cycle {voteCycle}"
+  },
+  "welcome": {
+    "howItWorks": {
+      "title": "Voting process:<br/> how does it work?",
+      "description": "The voting system consists of two steps. In the first one, you are asked to express your opinion for every each proposal",
+      "step1": "<b>First step</b><br/><br/>At the bottom of each proposals detail you will find 3 buttons to express your opinion",
+      "step2": "<b>Second step</b><br/><br/>From the summary pannel, that you will find at the bottom of your screen, you can use your trust token to validate the vote"
+    },
+    "step2": {
+      "title": "Changed your mind? <br/>How to manage your preferances from the summary panel",
+      "description": "The voting system consists of two steps. In the first one, you are asked to express your opinion for every each proposal"
+    },
+    "step3": {
+      "title": "Trust token: <br/>how they work and why you want to use all of them at once",
+      "description": "The voting system consists of two steps. In the first one, you are asked to express your opinion for every each proposal"
+    }
+  },
+  "proposal": {
+    "createOrEdit": {
+      "create": {
+        "title": "Create a proposal",
+        "button": "Create proposal"
+      },
+      "types": {
+        "label": "Select the type of proposal",
+        "campaign": {
+          "label": "Distribution Campaign",
+          "description": {
+            "title": "Liquid Seeds",
+            "explanation": "Spread Seeds far and wide as gifts for regeneration. Create a campaign to reward your community or for an action that heals people and our planet.",
+            "note": "Not intended for projects that need to sell Seeds to cover expenses. Campaigns are designed to get Seeds into as many hands as possible."
+          }
+        },
+        "alliance": {
+          "label": "Partner Alliance",
+          "edit": {
+            "title": "Edit Alliance proposal",
+            "button": "Edit proposal"
+          },
+          "description": {
+            "title": "Defered Seeds",
+            "explanation": "Earn a share of this movement as an organisation dedicated to helping and healing people, communities and our planet.",
+            "note": "Seeds are held in escrow until after 'Go Live'. Grow the value of your Alliance Share by helping this movement grow."
+          }
+        },
+        "referendum": {
+          "label": "Referendum",
+          "title": "Referendum details",
+          "description": {
+            "title": "SEEDS is self governed by the people who use it!",
+            "explanation": "Referendums allow you to co-create the game and help shape the rules by suggesting evolutions to the Game Guide or Constitution.",
+            "note": ""
+          }
+        }
+      },
+      "campaign": {
+        "label": "Distribution Campaign",
+        "description": "Liquid Seeds<br/>",
+        "title": "Campaign details",
+        "create": {
+          "title": "Create Campaign proposal",
+          "button": "Create proposal"
+        },
+        "edit": {
+          "title": "Edit Campaign proposal",
+          "button": "Edit proposal"
+        },
+        "name": {
+          "label": "What's the Campaign called?",
+          "placeholder": "Campaign name - make it exciting!"
+        },
+        "image": {
+          "title": "Upload Image",
+          "description": "Proposals with cool images get better reactions!"
+        },
+        "purpose": {
+          "label": "What is the proposal?",
+          "placeholder": "In as few words as possible, tell us what you’d like to change."
+        },
+        "howWillServe": {
+          "label": "How will this serve the regenerative movement?",
+          "placeholder": "How does this campaign serve people and / or our planet?"
+        },
+        "usage": {
+          "label": "How will these Seeds be used? How do people participate?",
+          "placeholder": "Get people excited to participate in your campaign"
+        },
+        "howManyPeople": {
+          "label": "How many people will benefit from this campaign?",
+          "placeholder": "Enter a number"
+        },
+        "whyThisAmount": {
+          "label": "Why are you asking for this amount?",
+          "placeholder": "A single SEED can grow a tree"
+        },
+        "economics": {
+          "title": "Campaign economics",
+          "explanation": "According to your community size, you may request up to 250USD worth of Seeds. <b>You can’t change the amout after you submit the proposal</b>",
+          "firstProposalTip": "This is your first campaign, start small",
+          "disclaimer": "By clicking here, I understand that Distribution Campaign Seeds are not intended to be sold to pay for project costs"
+        },
+        "review": {
+          "title": "Review",
+          "explanation": "<b>Almost Done!</b><br/>Check out the preview putting yourself in the shoes of someone reading it. Would you vote on it?<br/><br/>Edits will be possible until the proposal goes live at the next cycle.<br/><br/><b>If your proposal passes and you fail to follow through, your account will lose reputation and won’t be able to apply again.</b>"
+        }
+      },
+      "alliance": {
+        "label": "Partner Alliance",
+        "title": "Alliance details",
+        "create": {
+          "title": "Create Alliance proposal",
+          "button": "Create proposal"
+        },
+        "edit": {
+          "title": "Edit Alliance proposal",
+          "button": "Edit proposal"
+        },
+        "name": {
+          "label": "Who are you?",
+          "placeholder": "Organization, group or movement name"
+        },
+        "image": {
+          "title": "Upload Image",
+          "description": "Proposals with better images get better reactions!"
+        },
+        "purpose": {
+          "label": "What's your purpose?",
+          "placeholder": "Briefly describe your organization's purpose"
+        },
+        "howWillServe": {
+          "label": "How will this serve the regenerative movement?",
+          "placeholder": "Tell us how your organization is regenerative"
+        },
+        "usage": {
+          "label": "What value are you offering the SEEDS community or the regenerative movement? Why should people support this Alliance",
+          "placeholder": "Tell us what impact you have or plan to have with this support?"
+        },
+        "howManyPeople": {
+          "label": "What is the current reach of your regenerative impact?",
+          "placeholder": "Enter a number"
+        },
+        "whyThisAmount": {
+          "label": "Why are you asking for this amount?",
+          "placeholder": "A single SEED can grow a tree"
+        },
+        "economics": {
+          "title": "Alliance economics",
+          "explanation": "According to your community size, you may request up to 250USD worth of Seeds. <b>You can’t change the amout after you submit the proposal</b>"
+        },
+        "review": {
+          "title": "Review",
+          "explanation": "<b>Almost Done!</b><br/>Check out the preview putting yourself in the shoes of someone reading it. Would you vote on it?<br/><br/>Edits will be possible until the proposal goes live at the next cycle.<br/><br/><b>If your proposal passes and you fail to follow through, your account will lose reputation and won’t be able to apply again.</b>"
+        }
+      },
+      "referendum": {
+        "label": "Referendum",
+        "title": "Referendum details",
+        "create": {
+          "title": "Create Referendum proposal",
+          "button": "Create proposal"
+        },
+        "edit": {
+          "title": "Edit Referendum proposal",
+          "button": "Edit proposal"
+        },
+        "name": {
+          "label": "Are you referring to an existing section in the Game Guide or Constitution?",
+          "placeholder": "Reference a section that corresponds with the Contents so it's easy to find."
+        },
+        "image": {
+          "title": "Upload Image",
+          "description": "Proposals with better images get better reactions!"
+        },
+        "whatIsProposal": {
+          "label": "What is the proposal?",
+          "placeholder": "In as few words as possible, tell us what you would like to change."
+        },
+        "tensionOrConflict": {
+          "label": "What inspired this proposal or what tension does it aim to resolve?",
+          "placeholder": "Share with us how this proposal improves the document or solves a tension"
+        },
+        "expectedResult": {
+          "label": "What do you expect will happen with this change?  What metrics do we look to to know if this change was successful?",
+          "placeholder": "Describe what success looks like. "
+        },
+        "downsides": {
+          "label": "Are there any downsides?",
+          "placeholder": "Share any potential human, financial or other costs that this change may incur."
+        },
+        "review": {
+          "title": "Review",
+          "explanation": "<b>Almost Done!</b><br/>Check out the preview putting yourself in the shoes of someone reading it. Would you vote on it?<br/><br/>Edits will be possible until the proposal goes live at the next cycle."
+        },
+        "explanation": "Make sure you’re looking at the latest version of the  ",
+        "and": " and ",
+        "constitution": "Constitution",
+        "gameGuide": "Game Guide",
+        "note": "<b>{amount} SEEDS</b> will be charged for this proposal.",
+        "fund": "Rules.seeds"
+      },
+      "topic": {
+        "label": "Select a topic",
+        "placeholder": "Topic"
+      },
+      "howMuch": {
+        "label": "How much are you requesting?"
+      },
+      "hashtag": {
+        "label": "Add Hashtags",
+        "placeholder": "#hashtag"
+      },
+      "linkADiscussion": {
+        "title": "Link a discussion to this proposal.",
+        "description": "<b>Each proposal must be linked to a discussion in the 'Engage' section.</b> Choose a discussion below.",
+        "search": {
+          "label": "Link to an existing discussion",
+          "placeholder": "Discussion name or ID"
+        },
+        "disclaimer": "I don't have a discussion for this proposal. <b>Please create one for me.</b>"
+      },
+      "whyThisAmount": {
+        "label": "Why are you asking for this amount?",
+        "placeholder": "A single Seed can grow a tree"
+      },
+      "receivingAccount": {
+        "label": "SEEDS account to receive the funds",
+        "placeholder": "personal / organisation account name"
+      },
+      "explanation": "Your stake is returned to you when the proposal is approved. If you happen to be unlucky on this proposal, the stake is cycled back through the community, and we encourage you to keep trying. The stake is 5% of the proposal request and a minimum of 555 Seeds.",
+      "disclaimer": "By clicking here, I understand that Distribution Campaign Seeds are not intended to be sold to pay for project costs"
+    },
+    "stake": {
+      "chart": {
+        "button": "Stake",
+        "title": "Stake Seeds",
+        "amount": "Stake amount",
+        "available": "Available",
+        "totalAmount": "Total stake amount",
+        "balance": "Available balance",
+        "amountYouWantToStake": "Amount you want to stake",
+        "staked": "Staked",
+        "toStake": "To stake",
+        "enoughFunds": {
+          "note": "No action required now",
+          "explanation": "At the end, you can decide how you'd like to stake this proposal"
+        },
+        "notEnoughFunds": {
+          "note": "You don't have enough funds to stake",
+          "explanation": "You can continue without staking and we will give you some options at the end."
+        },
+        "explanation": "Your stake is returned to you when the proposal is approved. If you happen to be unlucky on this proposal, the stake is cycled back through the community, and we encourage you to keep trying. The stake is 5% of the proposal request and a minimum of 555 Seeds."
+      },
+      "forOther": {
+        "title": "Stake proposal",
+        "explanation": "The stake is returned to you when the proposal is approved. If you happen to be unlucky on this proposal, the stake is cycled back through the community, and we encourage you to keep trying ",
+        "amountTitle": "Amount you want to stake"
+      },
+      "title": "Congratulations!",
+      "note": "Your proposal has been published!",
+      "info": "Now it’s time to manage the stake. Until then, this proposal will remain in “Upcoming”.",
+      "options": {
+        "title": "Your options",
+        "buy": {
+          "title": "Buy Seeds",
+          "description": "Add stake yourself.",
+          "button": "Buy Seeds"
+        },
+        "fullAmount": {
+          "title": "Stake full amount",
+          "description": "Awesome! Your proposal will go live automatically at the next cycle."
+        },
+        "partialAmount": {
+          "title": "Stake partial amount",
+          "description": "You can stake a partial amount, but until the entire stake is covered in full, this proposal will remain in “Upcoming.”"
+        },
+        "dontStake": {
+          "title": "Don’t stake now",
+          "description": "Someone else may stake for you while the proposal is still “Upcoming” where it will remain until the full stake is covered."
+        },
+        "disclaimer": "Your stake is returned when the proposal is approved. If you happen to be unlucky on this proposal, the stake is cycled back through the community, and we encourage you to keep trying."
+      }
+    },
+    "list": {
+      "totalProposals": "proposals <em>{proposals}</em>",
+      "precast": {
+        "title": "Cast your vote",
+        "text": "Make sure you read through each proposal and pre-cast your decision. Then, you can use your trust tokens to officially vote, but only after the pre-cast is set."
+      },
+      "expiresAt": {
+        "title": "Voting expires in:"
+      },
+      "startsAt": {
+        "title": "Voting will start in:"
+      },
+      "budget": {
+        "title": "Remaining budget"
+      },
+      "voted-on": {
+        "title": "Voted on:"
+      },
+      "vote-widget": {
+        "title": "Trust tokens used / available"
+      },
+      "category": {
+        "title": "Selected Category",
+        "campaign": "Campaigns",
+        "alliance": "Alliances",
+        "referendum": "Referendums",
+        "milestone": "Milestones"
+      },
+      "fund": {
+        "campaign": "Campaign.funds",
+        "alliance": "Alliance.funds",
+        "referendum": "",
+        "milestone": ""
+      },
+      "upcoming": {
+        "noProposals": "Currently there are no upcoming proposals. Please check later"
+      },
+      "open": {
+        "noProposals": "Currently there are no open proposals. Please check later",
+        "precast": {
+          "success": {
+            "title": "Precasted Vote",
+            "message": "Your vote precast has been changed"
+          },
+          "error": {
+            "title": "Error precasting vote",
+            "message": "Could not update your precast choice!"
+          }
+        }
+      },
+      "history": {
+        "noProposals": "Currently there are no proposals in archive. Please check later"
+      },
+      "evaluate": {
+        "noProposals": "Currently there are no evaluating proposals. Please check next cycle"
+      }
+    },
+    "details": {
+      "nextProposal": "Vote on next proposal",
+      "lastProposal": "Close and use trust tokens!",
+      "stakeButton": "Stake",
+      "commentsTitle": "Most recent comments",
+      "precast": {
+        "success": {
+          "title": "Precasted Vote",
+          "message": "Your vote has been pre-cast. Please pre-cast the next proposal"
+        },
+        "error": {
+          "title": "Error",
+          "message": "Could not save your pre-cast choice!"
+        }
+      }
+    },
+    "voteAction": {
+      "success": {
+        "title": "Success",
+        "message": "Your vote has been pre-cast."
+      },
+      "error": {
+        "title": "Error",
+        "message": "Oopsies, please try again."
+      }
+    }
+  },
+  "tabs": {
+    "open": {
+      "title": "Open"
+    },
+    "evaluate": {
+      "title": "Evaluating"
+    },
+    "upcoming": {
+      "title": "Upcoming"
+    },
+    "history": {
+      "title": "History"
+    }
+  }
+}

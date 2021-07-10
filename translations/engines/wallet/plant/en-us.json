@@ -1,0 +1,22 @@
+{
+  "page_title": "Plant Seeds",
+  "enter_plant_quantity": "Enter the quantity of Seeds to plant",
+  "enter_plant_quantity_placeholder": "5 Seeds",
+  "available_seeds": "Available Seeds",
+  "planted_seeds": "Planted Seeds",
+  "not_enough_seeds": "You don't have enough available Seeds",
+  "footnotes": {
+    "planting_is_similar_to_depositing": "Planting is similar to depositing into a restricted-access savings account. This increases your Contribution Score, share of the Harvest, and transaction bandwidth.",
+    "unplanting_seeds_takes_weeks": "Unplanting Seeds takes 12 weeks in total, with 8.33% of requested amount released each week, so only plant Seeds you don't need to access soon.",
+    "seeds_remain_planted": "At the \"Go Live\" event, planted Seeds will be locked for one year, but will reward you with a bonus of extra Harvest Seeds (equal to 30% of those planted).",
+    "unplanting_requests_made_prior_event": "Unplanting requests made prior to the event will still be completed, with Seeds returned over the standard 12 week period (and no bonus earned)."
+  },
+  "buttons": {
+    "plant_seeds": "Plant Seeds"
+  },
+  "transaction": {
+    "sign": "Securely sign the transaction to plant Seeds",
+    "executing": "Planting Seeds…",
+    "error": "Error planting Seeds"
+  }
+}

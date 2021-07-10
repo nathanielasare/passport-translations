@@ -1,0 +1,37 @@
+{
+  "step-seeds-quantity": {
+    "page_title": "Invite a friend",
+    "send_seeds_to_invite": "Gift Seeds and invite a friend to join",
+    "seeds_amount_input_title": "Gift amount",
+    "seeds_amount_input_placeholder": "Minimum {quantity} Seeds",
+    "available_seeds": "Available Seeds",
+    "insufficient_seeds": "You don't have enough available Seeds",
+    "transaction": {
+      "sign": "Securely sign the transaction to invite a friend",
+      "executing": "Generating your invite…",
+      "error": "Error generating invite"
+    },
+    "footnote": {
+      "note1": "Minimum 5 Seeds are required to send an invite. This creates a unique blockchain account and helps reduce spam.",
+      "note2": "Additional Seeds gifted will be available for them to use immediately.",
+      "note3": "Inviting new people can earn you Referral Rewards, Reputation, and Community Building Points."
+    }
+  },
+  "step-congratulations": {
+    "page_title": "Share invite link",
+    "share_your": "Share your",
+    "gift_with_friend": "gift with your friend",
+    "share_link": "Share link",
+    "copy_link": "Copy link",
+    "copied_link": "Invite link was copied to the clipboard.",
+    "share": {
+      "title": "Share link with a friend",
+      "text": "Do you want to join me as a regenerator in a movement created to heal our beautiful planet and communities?\r\n\r\nAs a welcome gift, I'm sending you some Seeds, our own currency, that's similar to other digital money - but without the fees! It's also governed by the people that use it (this can be you!) Great eh!?\r\n\r\nJust click below on your mobile phone to get them. Let's play!\r\n\r\n{invite_link}\r\n\r\nIf the link doesn't work download the SEEDS Passport and add this invite code.\r\n{invite_code}\r",
+      "dialog_title": "Share link with a friend"
+    },
+    "footnote": {
+      "as_your_friend_becomes": "Note: As your friend evolves to Resident and Citizen, your Reputation goes up!",
+      "be_sure_you_can_trust_them": "Be sure you can trust them as vouching for, or inviting fraudulent and fake accounts can reduce your Reputation."
+    }
+  }
+}

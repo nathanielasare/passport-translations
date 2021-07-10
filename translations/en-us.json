@@ -1,0 +1,384 @@
+{
+  "general": {
+    "available": "Available",
+    "planted": "Planted",
+    "unplanted": "Unplanted",
+    "harvested": "Harvested",
+    "unplanting": "Unplanting",
+    "guest": "Guest",
+    "visitor": "Visitor",
+    "resident": "Resident",
+    "citizen": "Citizen",
+    "organisation": "Organisation"
+  },
+  "currencies": {
+    "seeds": {
+      "single": "Seed",
+      "plural": "Seeds"
+    }
+  },
+  "balances": {
+    "growth": {
+      "seeds": "Seeds"
+    },
+    "labels": {
+      "available": {
+        "short": "Available",
+        "full": "Available Seeds"
+      },
+      "planted": {
+        "short": "Planted",
+        "full": "Planted Seeds"
+      },
+      "unplanted": {
+        "short": "Unplanted",
+        "full": "Unplanted Seeds"
+      },
+      "harvest": {
+        "short": "Harvest",
+        "full": "Harvest Seeds"
+      },
+      "unplanting": {
+        "short": "Unplanting",
+        "full": "Unplanting Seeds"
+      },
+      "deferred": {
+        "short": "Deferred",
+        "full": "Deferred Seeds"
+      },
+      "required": {
+        "short": "Required",
+        "full": "Required Seeds"
+      }
+    }
+  },
+  "notifications": {
+    "title": "SEEDS Passport",
+    "text": "Seeds Passport Notification"
+  },
+  "buttons": {
+    "close": "Close",
+    "cancel": "Cancel",
+    "retry": "Retry",
+    "continue": "Continue",
+    "next": "Next",
+    "finish": "Finish",
+    "reply": "Reply",
+    "publish": "Publish",
+    "edit": "Edit",
+    "create": "Create",
+    "save": "Save",
+    "select": "Select",
+    "confirm": "Confirm",
+    "view-details": "View details",
+    "cancel-proposal": "Cancel proposal",
+    "view-details-and-vote": "View details and vote",
+    "next-proposal-vote": "Vote next proposal",
+    "next-proposal-view": "View next proposal",
+    "finished-precast": "All proposals have been pre-cast!"
+  },
+  "menus": {
+    "wallet": "Wallet",
+    "gather_harvest": "Gather Harvest",
+    "transfer_seeds": "Send Seeds",
+    "plant_seeds": "Plant Seeds",
+    "unplant_seeds": "Unplant Seeds",
+    "unplant_schedule": "Unplant Schedule",
+    "manage_invites": "Manage your Invites",
+    "get_seeds": "Get Seeds",
+    "digitize_qr_code": "Pay with QR Code",
+    "profile": "Profile",
+    "organization_profile": "Organisation Profile",
+    "update_profile": "Update Profile",
+    "view_profile": "View Profile",
+    "create_profile": "Create Profile",
+    "game_of_seeds": "Game of SEEDS",
+    "game_of_seeds_dashboard": "Dashboard",
+    "community": "Community",
+    "organization": "Organisation / Business",
+    "invite_friends": "Invite a Friend",
+    "gos": "Game of Seeds",
+    "vouch_for_friend": "Vouch for a Friend",
+    "view_badges": "View Badges",
+    "invite_members": "Invite a Member",
+    "vouch_for_member": "Vouch for a Member",
+    "regenerative_path": "Take Regenerative Path",
+    "create_organization_account": "Create Organisation Account",
+    "link_account": "Link a SEEDS Account",
+    "security": "Security",
+    "backup_key": "Backup Private Key",
+    "recovery_kit": "Generate Recovery Kit",
+    "welcome": "Welcome",
+    "sign_out": "Sign Out",
+    "sign_in": "Sign In",
+    "sign_up": "Sign Up",
+    "recover_password": "Recover Password",
+    "redeem_invite": "Redeem an Invite",
+    "account_switcher": {
+      "change_account": "Change Account",
+      "change_account_expanded": "Change Account",
+      "unlink_button": {
+        "waiting": "",
+        "unlink": "Unlink",
+        "unlinking": ""
+      }
+    }
+  },
+  "vote": {
+    "byAuthor": "by {author}",
+    "inFavour": "In favour",
+    "inFavourNo": "In favour: {no}",
+    "against": "Against",
+    "againstNo": "Against: {no}",
+    "totalNo": "Total: {no}",
+    "abstain": "Abstain",
+    "proposalId": "Proposal ID: {id}",
+    "timeLeft": "Time left: {days, plural, =0 {expires today} =1 {one day left} other {# days left}}",
+    "quorumReached": {
+      "label": "Quorum: {state}",
+      "yes": "reached",
+      "no": "not reached"
+    },
+    "status": {
+      "voted": "Voted",
+      "passed": "Passed",
+      "rejected": "Failed"
+    },
+    "quorum": "Quorum",
+    "trustTokens": "{percent}% of citizen trust token",
+    "votesInFavour": "{percent}% of votes in favour",
+    "actionTitle": "Pre-cast your vote",
+    "confirmText": {
+      "against": "I'm <b>against</b> this proposal",
+      "favour": "I'm <b>in favour</b> of this proposal",
+      "abstain": "<b>Abstain</b>"
+    },
+    "widget": {
+      "title": "Trust token used/available",
+      "button": "Vote",
+      "voted": "Voted",
+      "disclaimer": "Your trust tokens are used when you express your vote (in favour or against) on each proposal. Your trust tokens are not impacted when you choose to abstain."
+    },
+    "daysLeft": "{days, plural, =0 {expires today} =1 {one day left} other {# days left}}",
+    "endedOn": "Ended on: {days, date, instant}",
+    "startsIn": "{days, plural, =0 {Opens today} =1 {Opens tomorrow} other {Opens in # days}}",
+    "endedLongTimeAgo": "Ended long time ago"
+  },
+  "proposal": {
+    "type": {
+      "campaign": "Campaign",
+      "alliance": "Alliance",
+      "referendum": "Referendum",
+      "milestone": "Milestone"
+    },
+    "details": {
+      "title": "Details"
+    }
+  },
+  "bottom-bar": {
+    "home": "Home",
+    "engage": "Engage",
+    "vote": "Vote",
+    "connect": "Connect",
+    "trade": "Trade"
+  },
+  "wallet-unlock": {
+    "unlock_dialog_title": "Unlock your wallet to securely sign the transaction",
+    "progress_dialog_title": "Executing transaction…",
+    "error_dialog_title": "Error executing transaction",
+    "store_private_key_dialog_title": "Securely store your Private Key on this device and use device wallet password to sign your transactions"
+  },
+  "error_messages": {
+    "unknown_try_again": {
+      "title": "Error",
+      "description": "Something unexpected happened. Please try again."
+    },
+    "invalid_qr_code": {
+      "title": "Error loading QR code",
+      "description": "Please ensure you have authorised this application to access your camera and check that you are scanning a valid SEEDS Payment QR code."
+    }
+  },
+  "pay_with_seeds": {
+    "qrcode_prompt": "Place a SEEDS Payment QR Code inside the scan area"
+  },
+  "image_uploader": {
+    "default_title": "Upload picture",
+    "default_description": "If you don't have any good one connect to Unsplash Library",
+    "error": {
+      "general": {
+        "title": "Upload error!",
+        "description": "There was an error uploading your image. Please try again."
+      },
+      "unsupported": {
+        "title": "Unsupported format!",
+        "description": "You can only upload .jpg and .png images"
+      }
+    }
+  },
+  "titles": {
+    "hashtags": "Hashtags"
+  },
+  "moon-calendar": {
+    "cycle": "Moon Cycle",
+    "phase": {
+      "newmoon": "New Moon",
+      "waxinggibbous": "Waxing > Gibbous",
+      "firstquarter": "First Quarter",
+      "waxingcrescent": "Waxing > Crescent",
+      "fullmoon": "Full Moon",
+      "waningcrescent": "Waning > Crescent",
+      "lastquarter": "Last Quarter",
+      "waninggibbous": "Waning > Gibbous"
+    }
+  },
+  "voting": {
+    "endTitle": "Voting will end in:"
+  },
+  "countdown-timer": {
+    "days": "days",
+    "hours": "hrs",
+    "minutes": "mins",
+    "seconds": "sec"
+  },
+  "main": {
+    "intro-page": {
+      "next": "Next",
+      "connect": {
+        "title": "Connect",
+        "description": "Connect, share and co-create with global regenerators."
+      },
+      "vote": {
+        "title": "Vote",
+        "description": "Vote on projects you care about and get your regenerative ideas funded."
+      },
+      "play": {
+        "title": "Play",
+        "description": "Play the Game of SEEDS and co-create change by using Seeds everyday."
+      }
+    },
+    "sign-in-page": {
+      "title-serif": "Sign",
+      "title-sans-serif": "in",
+      "email": "Email",
+      "password": "Password",
+      "generic-error": "Please check your email and password.",
+      "forgot-password": "Forgot password?",
+      "no-account": "Don't have an account yet? ",
+      "create-one": "Create one",
+      "no-account-or": " or ",
+      "redeem-invite": "Redeem an invite",
+      "sign-in-button": "Sign In"
+    },
+    "sign-up-page": {
+      "title-serif": "Sign",
+      "title-sans-serif": "up",
+      "email": "Email",
+      "password": "Password",
+      "confirm-password": "Confirm password",
+      "generic-error": "Place check your email and password.",
+      "has-account": "Already have a SEEDS Passport account? ",
+      "sign-in": "Sign in.",
+      "sign-up-button": "Sign up",
+      "agree-to-terms": "By signing up, you agree to our ",
+      "agree-to-terms-url": "https://joinseeds.earth/terms-and-conditions",
+      "agree-to-terms-url-label": "terms ",
+      "agree-to-terms-and": "and, ",
+      "privacy-policy-url": "https://joinseeds.earth/privacy-policy",
+      "privacy-policy-url-label": "privacy policy.",
+      "unknown-error": "An unexpected error occurred. Please check your email and password and try again.",
+      "email-already-registered": "This email has already been registered."
+    },
+    "reset-password-page": {
+      "title-serif": "Reset",
+      "title-sans-serif": "password",
+      "email": "Email",
+      "description": "Enter the email you used to create your account; We'll send you a link to reset your password.",
+      "has-account": "Already have a SEEDS Passport account? ",
+      "sign-in": "Sign in.",
+      "send-email-button": "Send email",
+      "modal-success": "We've just sent you an email with a link to reset your password.\nPlease check the your email inbox to finish the password reset.",
+      "generic-error": "There was an error resetting your password."
+    },
+    "onboard-invite-page": {
+      "have-received-invite": "Have you received an invite?",
+      "paste-invite": "Paste your invite link or code below",
+      "paste-placeholder": "Paste code/link",
+      "no-invite-yet": "Don't have an invite yet?",
+      "request-below": "Request and invite below or",
+      "link-account": "link an existing SEEDS account",
+      "sign-in": "Sign in",
+      "request-invite-button": "Request invite",
+      "create-account-button": "Create account",
+      "redeem-button": "Redeem",
+      "top-up-account-button": "Top-up Account",
+      "ignore-invite-button": "Ignore",
+      "received-invite": "You've received an invite!",
+      "congratulations": "Congratulations!",
+      "sent-you": "Sent you:",
+      "plant-warning": "Note: 5 Seeds are automatically planted when you create or top up your account.",
+      "create-title-serif": "Create",
+      "create-title-sans-serif": "Account",
+      "topup-title-serif": "Top-up",
+      "topup-title-sans-serif": "Account",
+      "create-invite": "Redeem invite",
+      "nickname-placeholder": "Nickname",
+      "password-placeholder": "Password",
+      "email-placeholder": "Email (for password recovery)",
+      "next": "Next",
+      "secret-words-title-serif": "Secret",
+      "secret-words-title-sans-serif": "Words",
+      "secret-words-description": "Write down these 12 words (ideally on paper) and keep them safe. You'll need them in case you ever need to recover your account.",
+      "copy-words-clipboard": "Copy words to clipboard",
+      "generate-recovery-image": "Generate recovery image",
+      "animation": {
+        "congrats": "Congrats!",
+        "serif-title": "You are now a",
+        "sans-serif-title": "Visitor",
+        "close-button": "Close"
+      },
+      "account-created": {
+        "account-ready": "Your Account is Ready",
+        "congrats": "Congratulations!",
+        "visitor": "Visitor",
+        "home": "Home"
+      }
+    },
+    "request-invite-page": {
+      "title-serif": "Request",
+      "title-sans-serif": "Invite",
+      "description": "A SEEDS Ambassador will receive your request and invite you personally. Here's the chance to introduce yourself.",
+      "nickname-placeholder": "Nickname",
+      "email-placeholder": "Email",
+      "story-placeholder": "Share your story with us",
+      "organisation-checkbox": "I am interested in creating an organisation account",
+      "send-request": "Send request"
+    }
+  },
+  "recovery-kit": {
+    "pdf": {
+      "title-serif": "Recovery",
+      "title-sans-serif": "Kit",
+      "account-name": "Account name:",
+      "private-key": "Private key:",
+      "mnemonic": "Secret words:"
+    },
+    "error": {
+      "title": "Error!",
+      "message": "There was an error generating the recovery kit. Please try again."
+    }
+  },
+  "posts": {
+    "error": {
+      "tags_too_short": "needs to have 1 or more"
+    }
+  },
+  "profile": {
+    "errors": {
+      "tags_too_long": "Cannot add more then {tags} tags"
+    }
+  },
+  "comments": {
+    "deleted": "Comment deleted",
+    "view-replies": "View replies"
+  }
+}
