@@ -300,7 +300,12 @@
         "title": "Remaining budget"
       },
       "voted-on": {
-        "title": "Voted on:"
+        "title": "Thank you!",
+        "subtitle": "Your Citizen voice is much apreciated!"
+      },
+      "well-done": {
+        "title": "Well done!",
+        "subtitle": "All proposals have been pre-cast"
       },
       "vote-widget": {
         "title": "Trust tokens used / available"
@@ -325,12 +330,12 @@
         "noProposals": "Currently there are no open proposals. Please check later",
         "precast": {
           "success": {
-            "title": "Precasted Vote",
-            "message": "Your vote precast has been changed"
+            "title": "Pre-cast Vote",
+            "message": "Your voting intention has been cast."
           },
           "error": {
-            "title": "Error precasting vote",
-            "message": "Could not update your precast choice!"
+            "title": "Error",
+            "message": "Your voting intention could not been cast."
           }
         }
       },
@@ -346,15 +351,13 @@
       "lastProposal": "Close and use trust tokens!",
       "stakeButton": "Stake",
       "commentsTitle": "Most recent comments",
-      "precast": {
-        "success": {
-          "title": "Precasted Vote",
-          "message": "Your intention has been cast."
-        },
-        "error": {
-          "title": "Error",
-          "message": "Could not save your pre-cast choice!"
-        }
+      "success": {
+        "title": "Pre-cast Vote",
+        "message": "Your voting intention has been cast."
+      },
+      "error": {
+        "title": "Error",
+        "message": "Your voting intention could not been cast."
       }
     },
     "voteAction": {
