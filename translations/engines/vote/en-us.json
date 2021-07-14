@@ -303,12 +303,24 @@
         "title": "Thank you!",
         "subtitle": "Your Citizen voice is much apreciated!"
       },
-      "well-done": {
+      "well-done-precast": {
         "title": "Well done!",
         "subtitle": "All proposals have been pre-cast"
       },
+      "well-done-vote": {
+        "title": "Well done!",
+        "subtitle": "You voted all {no} {proposalType}"
+      },
       "vote-widget": {
         "title": "Trust tokens used / available"
+      },
+      "monitor-scores": {
+        "title": "Monitor the scores",
+        "subtitle": "See how the proposals are doing"
+      },
+      "vote-next": {
+        "title": "Vote next proposal",
+        "subtitle": "{nextProposalOrder} of {total} remaining to vote"
       },
       "category": {
         "title": "Selected Category",
